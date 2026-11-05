@@ -1,0 +1,12 @@
+export const container = document.getElementById("movie-list");
+export const title = document.getElementById("movie-header");
+export const addInput = document.getElementById("movie-name");
+export const yearInput = document.getElementById("movie-year");
+export const searchInput = document.getElementById("movie-search");
+export const clearButton = document.getElementById("delete-movies");
+export const form = document.getElementById("movie-form");
+export const genreSelect = document.getElementById("movie-genre");
+export const watchedCheckbox = document.getElementById("movie-watched");
+export const nameError = document.getElementById("name-error");
+export const yearError = document.getElementById("year-error");
+export const themeButton = document.getElementById("theme-button");

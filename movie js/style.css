@@ -62,7 +62,17 @@
 .watched {
     text-decoration: line-through;
     background-color: #b3e5fc;
-    opacity: 0.7;
+}
+.dark .movie-list-item {
+    background-color: #333;
+    color: white;
+}
+.dark .watched {
+    background-color: #245c3a;
+    color: white;
+}
+.dark .movie-list-item a {
+    color: #90caf9;
 }
 .error {
     display: block;
